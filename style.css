@@ -1,0 +1,28 @@
+img{
+    height: 20px;
+    width: 20px;
+}
+.drejtohu{
+    display: flex;
+    align-items: center;
+}
+body{
+    background-color: blue;
+}
+#kryesori{
+    height: 100px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+#bardh{
+    background-color: white;
+    padding: 73px;
+}
+.white{
+        color: white;
+}
+.height{
+    height: 45px;
+    border: 2px solid grey;
+}
